@@ -10,12 +10,12 @@ class AboutMe extends Component {
       <div>
         <ListGroup>
           <ListGroupItem>
-              <a href="https://twitch.tv/sagetheragemage">
+              <a href="https://twitch.tv/sagetheragemage" target="_blank" rel="noopener noreferrer">
                 <img src={twitchLogo} width="1000" height="200" alt="twitch.tv"></img>
               </a>
           </ListGroupItem>
           <ListGroupItem>
-              <a href="https://twitch.tv/sagetheragemage">
+              <a href="https://caffeine.tv/sagetheragemage" target="_blank" rel="noopener noreferrer">
                 <img src={caffeineLogo} alt="caffeine.tv"></img>
               </a>
           </ListGroupItem>
