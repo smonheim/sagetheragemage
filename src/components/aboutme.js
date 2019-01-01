@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 import '../css/aboutme.css';
-import twitchLogo from '../assets/twitchLogo.png';
+import twitchLogo from '../assets/twitchLogo.svg';
 import caffeineLogo from '../assets/caffeineLogo.png';
 
 class AboutMe extends Component {
